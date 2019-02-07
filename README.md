@@ -1,0 +1,2 @@
+# FirstRepository
+Exploring the ideas
